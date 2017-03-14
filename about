@@ -1,3 +1,4 @@
 1.utf-8编码问题： Your site is having problems building: 
   The file _posts/2017-3-10-my_first_github_blod.md is not properly UTF-8 encoded. For more information.
   about：jekyll的文件编码问题，要设置文件的编码格式为utf-8
+  解禁：Your GitHub Pages site is currently being built from the master branch，pages建立在github的master分支上，改变需要将其他分支与master分支合并
